@@ -15,7 +15,9 @@ Master-slave и master-master режимы репликации отличают
 
 *Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.*
 
-Ответ:
+#### ОТВЕТ:
+
+
 ![image](https://github.com/Wernigerode23/12-06/assets/153208339/0a4377fc-8933-412c-b142-b548425ac012)
 ![image](https://github.com/Wernigerode23/12-06/assets/153208339/c9a6829b-f724-4e40-a3a0-d13e33e27631)
 ![image](https://github.com/Wernigerode23/12-06/assets/153208339/7b2f41af-dbab-407b-bb28-688cc134ba7e)
